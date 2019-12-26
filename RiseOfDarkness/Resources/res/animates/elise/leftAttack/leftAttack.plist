@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>01.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{45,30}</string>
+                <key>spriteSourceSize</key>
+                <string>{45,30}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{45,30}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>leftAttack.png</string>
+            <key>size</key>
+            <string>{45,30}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:050f95fa7a09a02b379158bbd75f0ead:d3acfb5b4c597daa612545a403e23426:d8e01ec17d54db527f3dbf2d4b02bc19$</string>
+            <key>textureFileName</key>
+            <string>leftAttack.png</string>
+        </dict>
+    </dict>
+</plist>
